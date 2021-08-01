@@ -1,8 +1,8 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://bobcatzoo.github.io"
-title = "Zookeeper"
+baseURL = "https://example.com/"
+title = "Hugo Theme MemE"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -94,17 +94,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "Alex"
+    name = "reuixiy"
     # Email
-    email = "bobcatzoo@outlook.com"
+    email = "reuixiy@gmail.com"
     # Motto or introduction
     motto = "Viva La Vida"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://bobcatzoo.top"
+    website = "https://io-oi.me/"
     # Twitter
-    twitter = "realJarryCat"
+    twitter = "reuixiy"
 
 # Related content
 [related]
@@ -357,7 +357,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "realJarryCat"
+    siteTwitter = "reuixiy"
     # Note: used for Twitter Cards
 
 
@@ -764,7 +764,7 @@ uglyURLs = false
     #            supported
 
     # The content width of the post
-    postWidth = 56
+    postWidth = 36
     # Note: you can leave it empty("") to
     #       fallback to the default value: 42
     #       Unit: em
