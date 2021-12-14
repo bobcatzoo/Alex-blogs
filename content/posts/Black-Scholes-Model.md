@@ -1,7 +1,9 @@
 ---
 title: "Black-Scholes-Merton Model"
-date: 2020-01-10 23:48:25+0800
+date: 2021-06-11 23:48:25+0800
 draft: false
+tags: ["Finance"]
+categories: ["欧式期权定价"]
 markup: mmark
 ---
 
